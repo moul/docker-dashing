@@ -1,7 +1,7 @@
 [![Docker Automated buil](https://img.shields.io/docker/automated/moul/smashing.svg?maxAge=2592000)]()
 [![](https://images.microbadger.com/badges/image/moul/smashing.svg)](http://microbadger.com/images/moul/smashing)
 [![Docker Stars](https://img.shields.io/docker/stars/moul/smashing.svg?maxAge=2592000)]()
-[![Docker Pulls](https://img.shields.io/docker/pulls/moul/smashing.svg?maxAge=2592000)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/moul/smashing.svg?maxAge=2592000)]() [![GuardRails badge](https://badges.production.guardrails.io/moul/docker-smashing.svg)](https://www.guardrails.io)
 
 # docker-smashing
 
